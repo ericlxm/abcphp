@@ -1,0 +1,13 @@
+{
+	"name" : "ericlxm/abc",
+	"description" : "php framework",
+	"type" : "Framework",
+	"keywords" : [
+		"php",
+		"php framework"
+	],
+	"require" : {
+		"php" : ">=5.6",
+		"filp/whoops" : "*"
+	}
+}
